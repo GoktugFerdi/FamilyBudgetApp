@@ -1,0 +1,65 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+*.ps1
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+firebase-debug.log*
+firestore-debug.log*
+
+# IntelliJ / Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Flutter / Dart / Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# Android build outputs & local properties
+android/local.properties
+android/app/debug
+android/app/profile
+android/app/release
+*.apk
+*.aab
+
+# Keystore & Signing Secrets
+key.properties
+**/*.keystore
+**/*.jks
+
+# Environment variables & API Keys
+.env
+.env.*
+*.env
+*.env.json
+
+# Firebase Configurations (Private to your project)
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+macos/Runner/GoogleService-Info.plist
+lib/firebase_options.dart
+
+# Symbolication & Obfuscation
+app.*.symbols
+app.*.map.json
