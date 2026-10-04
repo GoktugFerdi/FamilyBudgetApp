@@ -33,7 +33,7 @@ Projeyi yerel ortamınızda çalıştırmak için:
 
 1. Depoyu klonlayın:
    ```bash
-   git clone https://github.com/KULLANICI_ADIN/family_budget_app.git
+   git clone https://github.com/GoktugFerdi/family_budget_app.git
    cd family_budget_app
    ```
 2. Bağımlılıkları yükleyin:
